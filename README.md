@@ -43,7 +43,8 @@
 ![kkisim's GitHub stats](https://github-readme-stats.vercel.app/api?username=kkisim&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kkisim&layout=compact&theme=tokyonight)
 
-## 🧠 BOJ Stats
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=kisimoko_boj)](https://solved.ac/kisimoko_boj)
+## 🧠 BOJ Stats  
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=kisimoko)](https://solved.ac/kisimoko)
+
 
 
