@@ -2,7 +2,7 @@
 
 
 
-## 💻 Tech Stack (Markdown Badges 버전)
+## 💻 Tech Stack
 
 ### 🗣 Languages  
 ![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=white)
