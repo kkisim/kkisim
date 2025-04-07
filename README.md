@@ -45,6 +45,8 @@
 
 ## 🧠 BOJ Stats  
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=kisimoko)](https://solved.ac/kisimoko)
+[![GitHub Streak](https://streak-stats.demolab.com?user=kkisim&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+
 
 
 
