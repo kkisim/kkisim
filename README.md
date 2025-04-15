@@ -51,6 +51,8 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-49.6%20thousand%20lines%20of%20code-blue)
+
 📊 **This Week I Spent My Time On** 
 
 ```text
@@ -61,8 +63,22 @@ No Activity Tracked This Week
 No Activity Tracked This Week
 ```
 
+**I Mostly Code in C++** 
 
- Last Updated on 15/04/2025 05:16:30 UTC
+```text
+C++                      4 repos             ████████████░░░░░░░░░░░░░   50.00 % 
+Java                     3 repos             █████████░░░░░░░░░░░░░░░░   37.50 % 
+C#                       1 repo              ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
+```
+
+
+
+**Timeline**
+
+![Lines of Code chart](https://raw.githubusercontent.com/kkisim/kkisim/main/assets/bar_graph.png)
+
+
+ Last Updated on 15/04/2025 05:21:49 UTC
 <!--END_SECTION:waka-->
 
 
