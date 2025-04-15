@@ -47,6 +47,12 @@
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=kisimoko)](https://solved.ac/kisimoko)
 [![GitHub Streak](https://streak-stats.demolab.com?user=kkisim&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
+## ⏱ WakaTime Stats
+
+[![wakatime](https://wakatime.com/badge/user/aee9c2b8-4123-47a4-bcc2-bac8e13084de.svg)](https://wakatime.com/@kisim)
+[![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=kisim&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
+
 
 
 
