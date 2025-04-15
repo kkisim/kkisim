@@ -49,8 +49,9 @@
 
 ## ⏱ WakaTime Stats
 
-[![wakatime](https://wakatime.com/badge/user/aee9c2b8-4123-47a4-bcc2-bac8e13084de.svg)](https://wakatime.com/@kisim)
-[![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=kisim&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![wakatime](https://wakatime.com/badge/user/aee9c2b8-4123-47a4-bcc2-bac8e13084de.svg)](https://wakatime.com/@kkisim)
+[![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=kkisim&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 
