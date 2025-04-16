@@ -49,18 +49,26 @@
 
 ## ⏱ WakaTime Stats
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%20hrs%2054%20mins-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-49.6%20thousand%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-50.9%20thousand%20lines%20of%20code-blue)
 
 📊 **This Week I Spent My Time On** 
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+C#                       1 hr 45 mins        ███████████████░░░░░░░░░░   60.21 % 
+Java                     38 mins             █████░░░░░░░░░░░░░░░░░░░░   21.85 % 
+XML                      15 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.06 % 
+Other                    15 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.87 % 
+Kotlin                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+c#                       1 hr 33 mins        █████████████░░░░░░░░░░░░   53.41 % 
+baekjun                  30 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.48 % 
+zodiac                   22 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.93 % 
+project_1                15 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.93 % 
+My Google Maps           7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.37 % 
 ```
 
 **I Mostly Code in C++** 
@@ -78,7 +86,7 @@ C#                       1 repo              ███░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/kkisim/kkisim/main/assets/bar_graph.png)
 
 
- Last Updated on 15/04/2025 05:21:49 UTC
+ Last Updated on 16/04/2025 12:28:44 UTC
 <!--END_SECTION:waka-->
 
 
