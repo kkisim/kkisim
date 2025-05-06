@@ -49,24 +49,24 @@
 
 ## ⏱ WakaTime Stats
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-8%20hrs%207%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-9%20hrs%205%20mins-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-52.3%20thousand%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-52.9%20thousand%20lines%20of%20code-blue)
 
 📊 **This Week I Spent My Time On** 
 
 ```text
 💬 Programming Languages: 
-Java                     1 hr 44 mins        ████████████░░░░░░░░░░░░░   48.16 % 
-C#                       1 hr 25 mins        ██████████░░░░░░░░░░░░░░░   39.32 % 
-XML                      13 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.40 % 
-Other                    13 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.11 % 
+Java                     2 hrs 52 mins       ███████████████░░░░░░░░░░   60.61 % 
+C#                       1 hr 25 mins        ███████░░░░░░░░░░░░░░░░░░   29.88 % 
+XML                      13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.86 % 
+Other                    13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.65 % 
 
 🐱‍💻 Projects: 
-networktest              1 hr 31 mins        ███████████░░░░░░░░░░░░░░   42.08 % 
-c#                       1 hr 18 mins        █████████░░░░░░░░░░░░░░░░   36.29 % 
-baekjun                  27 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.48 % 
-project_1                19 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.15 % 
+baekjun                  1 hr 35 mins        ████████░░░░░░░░░░░░░░░░░   33.50 % 
+networktest              1 hr 31 mins        ████████░░░░░░░░░░░░░░░░░   31.98 % 
+c#                       1 hr 18 mins        ███████░░░░░░░░░░░░░░░░░░   27.57 % 
+project_1                19 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.95 % 
 ```
 
 **I Mostly Code in Java** 
@@ -84,7 +84,7 @@ C#                       1 repo              ███░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/kkisim/kkisim/main/assets/bar_graph.png)
 
 
- Last Updated on 30/04/2025 00:55:23 UTC
+ Last Updated on 06/05/2025 00:55:54 UTC
 <!--END_SECTION:waka-->
 
 
