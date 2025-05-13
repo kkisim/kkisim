@@ -49,18 +49,24 @@
 
 ## ⏱ WakaTime Stats
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-11%20hrs-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-12%20hrs%2035%20mins-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-53.5%20thousand%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-53.6%20thousand%20lines%20of%20code-blue)
 
 📊 **This Week I Spent My Time On** 
 
 ```text
 💬 Programming Languages: 
-Java                     1 hr 28 mins        █████████████████████████   100.00 % 
+Java                     2 hrs 31 mins       █████████████████████░░░░   82.97 % 
+XML                      17 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.38 % 
+Java Properties          13 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.65 % 
 
 🐱‍💻 Projects: 
-baekjun                  1 hr 28 mins        █████████████████████████   100.00 % 
+baekjun                  1 hr 52 mins        ███████████████░░░░░░░░░░   61.69 % 
+chapter04-2              52 mins             ███████░░░░░░░░░░░░░░░░░░   28.57 % 
+chapter04-01             15 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.27 % 
+Chapter03                2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.35 % 
+ch03_1                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 % 
 ```
 
 **I Mostly Code in Java** 
@@ -78,7 +84,7 @@ C#                       1 repo              ███░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/kkisim/kkisim/main/assets/bar_graph.png)
 
 
- Last Updated on 12/05/2025 00:58:22 UTC
+ Last Updated on 13/05/2025 00:56:16 UTC
 <!--END_SECTION:waka-->
 
 
