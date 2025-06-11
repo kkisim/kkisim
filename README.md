@@ -49,26 +49,26 @@
 
 ## ⏱ WakaTime Stats
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-66%20hrs%2056%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-74%20hrs%209%20mins-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-80.7%20thousand%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-87.2%20thousand%20lines%20of%20code-blue)
 
 📊 **This Week I Spent My Time On** 
 
 ```text
 💬 Programming Languages: 
-Java                     10 hrs 16 mins      ███████████████████░░░░░░   77.30 % 
-XML                      1 hr 41 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.70 % 
-Java Properties          51 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.43 % 
-HTML                     25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.19 % 
-Kotlin                   2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 % 
+Java                     14 hrs 53 mins      ████████████████████░░░░░   79.34 % 
+XML                      2 hrs 12 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.77 % 
+Java Properties          48 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.31 % 
+HTML                     25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.26 % 
+C#                       25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.26 % 
 
 🐱‍💻 Projects: 
-103Team                  6 hrs 10 mins       ████████████░░░░░░░░░░░░░   46.46 % 
-team103-backend          4 hrs 30 mins       ████████░░░░░░░░░░░░░░░░░   33.96 % 
-chapter06_01             1 hr 38 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.31 % 
-baekjun                  52 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.65 % 
-chap6                    4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.60 % 
+103Team                  8 hrs 35 mins       ███████████░░░░░░░░░░░░░░   45.77 % 
+team103-backend          7 hrs 7 mins        █████████░░░░░░░░░░░░░░░░   37.93 % 
+chapter06_01             1 hr 38 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.71 % 
+baekjun                  55 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.90 % 
+c#                       25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.26 % 
 ```
 
 **I Mostly Code in C++** 
@@ -86,7 +86,7 @@ C#                       1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/kkisim/kkisim/main/assets/bar_graph.png)
 
 
- Last Updated on 10/06/2025 00:57:52 UTC
+ Last Updated on 11/06/2025 00:57:42 UTC
 <!--END_SECTION:waka-->
 
 
