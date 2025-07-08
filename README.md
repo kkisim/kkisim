@@ -49,25 +49,26 @@
 
 ## ⏱ WakaTime Stats
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-107%20hrs%2048%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-108%20hrs%2019%20mins-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-172.5%20thousand%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-175.8%20thousand%20lines%20of%20code-blue)
 
 📊 **This Week I Spent My Time On** 
 
 ```text
 💬 Programming Languages: 
-Java                     1 hr 42 mins        █████████████████████████   99.38 % 
-Java Properties          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.45 % 
-Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 % 
-XML                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
-TOML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Java                     1 hr 8 mins         ██████████████████████░░░   89.77 % 
+XML                      6 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.90 % 
+Java Properties          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.61 % 
+TOML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.53 % 
+Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 % 
 
 🐱‍💻 Projects: 
-baekjun                  1 hr 7 mins         ████████████████░░░░░░░░░   65.42 % 
-103Team                  35 mins             ████████░░░░░░░░░░░░░░░░░   33.98 % 
-steam                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.45 % 
-Green Academy Partner    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 % 
+103Team                  1 hr 3 mins         █████████████████████░░░░   82.13 % 
+baekjun                  11 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.51 % 
+Unknown Project          1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.55 % 
+steam                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.61 % 
+Green Academy Partner    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 % 
 ```
 
 **I Mostly Code in Java** 
@@ -85,7 +86,7 @@ C#                       1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/kkisim/kkisim/main/assets/bar_graph.png)
 
 
- Last Updated on 03/07/2025 00:58:12 UTC
+ Last Updated on 08/07/2025 00:58:37 UTC
 <!--END_SECTION:waka-->
 
 
