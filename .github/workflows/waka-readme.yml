@@ -4,6 +4,8 @@ on:
   schedule:
     - cron: '0 0 * * *'  # 매일 자정 자동 실행
   workflow_dispatch:
+permissions:
+  contents: write 
 
 jobs:
   update-readme:
