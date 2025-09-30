@@ -49,34 +49,17 @@
 
 ## ⏱ WakaTime Stats
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-113%20hrs%2034%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-146%20hrs%2057%20mins-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-206.7%20thousand%20lines%20of%20code-blue)
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-Java                     3 hrs 51 mins       ██████████████████░░░░░░░   73.07 % 
-XML                      1 hr 11 mins        ██████░░░░░░░░░░░░░░░░░░░   22.58 % 
-Java Properties          12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.88 % 
-HTML                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.47 % 
-TOML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
-
-🐱‍💻 Projects: 
-103Team                  3 hrs 11 mins       ███████████████░░░░░░░░░░   60.69 % 
-team103-backend          1 hr                █████░░░░░░░░░░░░░░░░░░░░   19.08 % 
-baekjun                  51 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.13 % 
-steam                    12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.88 % 
-Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 % 
-```
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-521.7%20thousand%20lines%20of%20code-blue)
 
 **I Mostly Code in Java** 
 
 ```text
-Java                     6 repos             ████████████░░░░░░░░░░░░░   50.00 % 
+Java                     5 repos             ██████████░░░░░░░░░░░░░░░   41.67 % 
 C++                      5 repos             ██████████░░░░░░░░░░░░░░░   41.67 % 
 C#                       1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 % 
+HTML                     1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 % 
 ```
 
 
@@ -86,7 +69,7 @@ C#                       1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/kkisim/kkisim/main/assets/bar_graph.png)
 
 
- Last Updated on 12/07/2025 01:01:09 UTC
+ Last Updated on 30/09/2025 04:56:35 UTC
 <!--END_SECTION:waka-->
 
 
