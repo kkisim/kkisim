@@ -49,7 +49,7 @@
 
 ## ⏱ WakaTime Stats
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-152%20hrs%2037%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-154%20hrs%2021%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-691.3%20thousand%20lines%20of%20code-blue)
 
@@ -57,16 +57,15 @@
 
 ```text
 💬 Programming Languages: 
-Java                     3 hrs 57 mins       █████████████████████░░░░   85.67 % 
-Java Properties          20 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.31 % 
-C#                       15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.64 % 
-Other                    2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.80 % 
-XML                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 % 
+Java                     4 hrs 46 mins       ████████████████░░░░░░░░░   64.52 % 
+TypeScript               2 hrs 15 mins       ████████░░░░░░░░░░░░░░░░░   30.46 % 
+Java Properties          20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.57 % 
+Other                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 % 
+YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
 
 🐱‍💻 Projects: 
-team103-backend          4 hrs 18 mins       ███████████████████████░░   93.06 % 
-sin_06                   11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.00 % 
-c#                       8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.94 % 
+team103-backend          5 hrs 6 mins        █████████████████░░░░░░░░   69.15 % 
+103Team                  2 hrs 16 mins       ████████░░░░░░░░░░░░░░░░░   30.85 % 
 ```
 
 **I Mostly Code in Java** 
@@ -84,7 +83,7 @@ C#                       1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/kkisim/kkisim/main/assets/bar_graph.png)
 
 
- Last Updated on 06/10/2025 15:13:32 UTC
+ Last Updated on 07/10/2025 15:14:21 UTC
 <!--END_SECTION:waka-->
 
 
