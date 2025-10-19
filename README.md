@@ -57,18 +57,18 @@
 
 ```text
 💬 Programming Languages: 
-TypeScript               9 hrs 22 mins       █████████████░░░░░░░░░░░░   51.79 % 
-Java                     7 hrs 56 mins       ███████████░░░░░░░░░░░░░░   43.88 % 
+TypeScript               9 hrs 24 mins       █████████████░░░░░░░░░░░░   51.83 % 
+Java                     7 hrs 57 mins       ███████████░░░░░░░░░░░░░░   43.85 % 
 JavaScript               19 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.81 % 
 Java Properties          6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.62 % 
 JSON                     5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.47 % 
 
 🐱‍💻 Projects: 
-103Team                  9 hrs 50 mins       ██████████████░░░░░░░░░░░   54.35 % 
-team103-backend          5 hrs 38 mins       ████████░░░░░░░░░░░░░░░░░   31.17 % 
-observer4                45 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.19 % 
-baekjun                  44 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.13 % 
-Observer                 36 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.35 % 
+103Team                  9 hrs 52 mins       ██████████████░░░░░░░░░░░   54.39 % 
+team103-backend          5 hrs 39 mins       ████████░░░░░░░░░░░░░░░░░   31.18 % 
+observer4                45 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.18 % 
+baekjun                  44 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.12 % 
+Observer                 36 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.34 % 
 ```
 
 **I Mostly Code in Java** 
@@ -86,7 +86,7 @@ C#                       1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/kkisim/kkisim/main/assets/bar_graph.png)
 
 
- Last Updated on 18/10/2025 15:11:28 UTC
+ Last Updated on 19/10/2025 15:11:51 UTC
 <!--END_SECTION:waka-->
 
 
