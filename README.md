@@ -57,15 +57,15 @@
 
 ```text
 💬 Programming Languages: 
-TypeScript               6 hrs 47 mins       █████████████████░░░░░░░░   66.11 % 
-Java                     3 hrs 23 mins       ████████░░░░░░░░░░░░░░░░░   33.06 % 
+TypeScript               6 hrs 45 mins       █████████████████░░░░░░░░   66.11 % 
+Java                     3 hrs 22 mins       ████████░░░░░░░░░░░░░░░░░   33.05 % 
 C#                       4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.81 % 
 XML                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
 
 🐱‍💻 Projects: 
-103Team                  6 hrs 47 mins       █████████████████░░░░░░░░   66.11 % 
-team103-backend          3 hrs 18 mins       ████████░░░░░░░░░░░░░░░░░   32.18 % 
-backend                  5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.88 % 
+103Team                  6 hrs 45 mins       █████████████████░░░░░░░░   66.11 % 
+team103-backend          3 hrs 17 mins       ████████░░░░░░░░░░░░░░░░░   32.16 % 
+backend                  5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.89 % 
 sln_01                   2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 % 
 c#                       1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 % 
 ```
@@ -85,7 +85,7 @@ C#                       1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/kkisim/kkisim/main/assets/bar_graph.png)
 
 
- Last Updated on 25/10/2025 15:12:32 UTC
+ Last Updated on 26/10/2025 15:11:53 UTC
 <!--END_SECTION:waka-->
 
 
