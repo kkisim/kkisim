@@ -49,24 +49,24 @@
 
 ## ⏱ WakaTime Stats
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-259%20hrs%2025%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-260%20hrs%2022%20mins-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.4%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.5%20million%20lines%20of%20code-blue)
 
 📊 **This Week I Spent My Time On** 
 
 ```text
 💬 Programming Languages: 
-TypeScript               8 hrs 40 mins       █████████████░░░░░░░░░░░░   50.20 % 
-Java                     7 hrs 6 mins        ██████████░░░░░░░░░░░░░░░   41.15 % 
-JavaScript               1 hr                █░░░░░░░░░░░░░░░░░░░░░░░░   05.85 % 
-XML                      13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.34 % 
-Java Properties          6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.60 % 
+TypeScript               8 hrs 40 mins       █████████████░░░░░░░░░░░░   53.53 % 
+Java                     5 hrs 58 mins       █████████░░░░░░░░░░░░░░░░   36.89 % 
+JavaScript               1 hr 3 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.58 % 
+XML                      13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.43 % 
+Java Properties          6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.64 % 
 
 🐱‍💻 Projects: 
-103Team                  9 hrs 48 mins       ██████████████░░░░░░░░░░░   56.79 % 
-team103-backend          7 hrs 17 mins       ███████████░░░░░░░░░░░░░░   42.20 % 
-shoppingmall2            10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.97 % 
+103Team                  9 hrs 52 mins       ███████████████░░░░░░░░░░   60.91 % 
+team103-backend          6 hrs 9 mins        ██████████░░░░░░░░░░░░░░░   38.02 % 
+shoppingmall2            10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.03 % 
 team103                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
 ```
 
@@ -85,7 +85,7 @@ C#                       1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/kkisim/kkisim/main/assets/bar_graph.png)
 
 
- Last Updated on 15/11/2025 15:11:58 UTC
+ Last Updated on 16/11/2025 15:12:54 UTC
 <!--END_SECTION:waka-->
 
 
