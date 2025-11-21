@@ -57,18 +57,18 @@
 
 ```text
 💬 Programming Languages: 
-Java                     13 hrs 4 mins       ████████████░░░░░░░░░░░░░   47.81 % 
-TypeScript               12 hrs 27 mins      ███████████░░░░░░░░░░░░░░   45.54 % 
-JavaScript               1 hr 20 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.89 % 
-XML                      13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.82 % 
-Java Properties          6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 % 
+Java                     12 hrs 53 mins      ████████████░░░░░░░░░░░░░   48.46 % 
+TypeScript               11 hrs 53 mins      ███████████░░░░░░░░░░░░░░   44.71 % 
+JavaScript               1 hr 20 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.03 % 
+XML                      13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.85 % 
+Java Properties          6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 % 
 
 🐱‍💻 Projects: 
-103Team                  15 hrs 11 mins      ██████████████░░░░░░░░░░░   55.53 % 
-team103-backend          11 hrs 40 mins      ███████████░░░░░░░░░░░░░░   42.70 % 
-backend                  11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.67 % 
-shopmall2                10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.66 % 
-shoppingmall2            5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 % 
+103Team                  14 hrs 37 mins      ██████████████░░░░░░░░░░░   54.98 % 
+team103-backend          11 hrs 29 mins      ███████████░░░░░░░░░░░░░░   43.20 % 
+backend                  11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.69 % 
+shopmall2                10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.68 % 
+shoppingmall2            5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 % 
 ```
 
 **I Mostly Code in Java** 
@@ -86,7 +86,7 @@ C#                       1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/kkisim/kkisim/main/assets/bar_graph.png)
 
 
- Last Updated on 20/11/2025 15:16:30 UTC
+ Last Updated on 21/11/2025 15:13:40 UTC
 <!--END_SECTION:waka-->
 
 
