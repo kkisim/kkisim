@@ -57,15 +57,15 @@
 
 ```text
 💬 Programming Languages: 
-Java                     11 hrs 39 mins      █████████████░░░░░░░░░░░░   50.94 % 
-TypeScript               10 hrs 50 mins      ████████████░░░░░░░░░░░░░   47.35 % 
-JavaScript               19 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.44 % 
+Java                     11 hrs 39 mins      █████████████░░░░░░░░░░░░   51.06 % 
+TypeScript               10 hrs 50 mins      ████████████░░░░░░░░░░░░░   47.47 % 
+JavaScript               16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.20 % 
 Git Config               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
 XML                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
 
 🐱‍💻 Projects: 
-103Team                  12 hrs 28 mins      ██████████████░░░░░░░░░░░   54.54 % 
-team103-backend          9 hrs 55 mins       ███████████░░░░░░░░░░░░░░   43.37 % 
+103Team                  12 hrs 25 mins      ██████████████░░░░░░░░░░░   54.43 % 
+team103-backend          9 hrs 55 mins       ███████████░░░░░░░░░░░░░░   43.48 % 
 backend                  11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.81 % 
 shopmall2                10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.79 % 
 shoppingmall2            5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.43 % 
@@ -86,7 +86,7 @@ C#                       1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/kkisim/kkisim/main/assets/bar_graph.png)
 
 
- Last Updated on 22/11/2025 15:11:48 UTC
+ Last Updated on 23/11/2025 15:11:59 UTC
 <!--END_SECTION:waka-->
 
 
