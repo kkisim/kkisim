@@ -49,7 +49,7 @@
 
 ## ⏱ WakaTime Stats
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-287%20hrs%2052%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-290%20hrs%205%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.2%20million%20lines%20of%20code-blue)
 
@@ -57,16 +57,16 @@
 
 ```text
 💬 Programming Languages: 
-Java                     3 hrs 20 mins       ████████████████░░░░░░░░░   63.33 % 
-TypeScript               1 hr 51 mins        █████████░░░░░░░░░░░░░░░░   35.24 % 
-Gradle Kotlin DSL        4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.43 % 
+TypeScript               2 hrs 59 mins       █████████████░░░░░░░░░░░░   51.06 % 
+Java                     2 hrs 47 mins       ████████████░░░░░░░░░░░░░   47.64 % 
+Gradle Kotlin DSL        4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.30 % 
 
 🐱‍💻 Projects: 
-103Team                  1 hr 56 mins        █████████░░░░░░░░░░░░░░░░   36.92 % 
-team103-backend          1 hr 36 mins        ████████░░░░░░░░░░░░░░░░░   30.36 % 
-baekjun                  1 hr 10 mins        ██████░░░░░░░░░░░░░░░░░░░   22.17 % 
-tistory                  29 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.27 % 
-backend                  4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.29 % 
+103Team                  3 hrs 3 mins        █████████████░░░░░░░░░░░░   52.36 % 
+baekjun                  1 hr 36 mins        ███████░░░░░░░░░░░░░░░░░░   27.42 % 
+tistory                  29 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.37 % 
+backend                  22 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.44 % 
+team103-backend          18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.41 % 
 ```
 
 **I Mostly Code in Java** 
@@ -84,7 +84,7 @@ C#                       1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/kkisim/kkisim/main/assets/bar_graph.png)
 
 
- Last Updated on 26/11/2025 15:13:34 UTC
+ Last Updated on 27/11/2025 15:14:34 UTC
 <!--END_SECTION:waka-->
 
 
