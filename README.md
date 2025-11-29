@@ -49,7 +49,7 @@
 
 ## ⏱ WakaTime Stats
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-293%20hrs%2031%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-296%20hrs%2029%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.3%20million%20lines%20of%20code-blue)
 
@@ -57,16 +57,18 @@
 
 ```text
 💬 Programming Languages: 
-TypeScript               4 hrs 54 mins       ████████████████░░░░░░░░░   62.90 % 
-Java                     2 hrs 49 mins       █████████░░░░░░░░░░░░░░░░   36.13 % 
-Gradle Kotlin DSL        4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.97 % 
+TypeScript               4 hrs 54 mins       ███████████░░░░░░░░░░░░░░   42.70 % 
+Python                   2 hrs 57 mins       ██████░░░░░░░░░░░░░░░░░░░   25.78 % 
+Java                     2 hrs 53 mins       ██████░░░░░░░░░░░░░░░░░░░   25.13 % 
+Other                    19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.76 % 
+YAML                     13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.03 % 
 
 🐱‍💻 Projects: 
-103Team                  4 hrs 59 mins       ████████████████░░░░░░░░░   63.87 % 
-baekjun                  1 hr 36 mins        █████░░░░░░░░░░░░░░░░░░░░   20.54 % 
-tistory                  29 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.27 % 
-backend                  24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.18 % 
-team103-backend          19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.13 % 
+103Team                  4 hrs 59 mins       ███████████░░░░░░░░░░░░░░   43.36 % 
+파이썬으로 디스코드봇 만들기          2 hrs 9 mins        █████░░░░░░░░░░░░░░░░░░░░   18.80 % 
+baekjun                  1 hr 40 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.55 % 
+discordbot.minbot        1 hr 4 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   09.33 % 
+backend                  44 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.49 % 
 ```
 
 **I Mostly Code in Java** 
@@ -85,7 +87,7 @@ C#                       1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/kkisim/kkisim/main/assets/bar_graph.png)
 
 
- Last Updated on 28/11/2025 15:13:59 UTC
+ Last Updated on 29/11/2025 15:12:51 UTC
 <!--END_SECTION:waka-->
 
 
