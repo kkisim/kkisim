@@ -57,18 +57,18 @@
 
 ```text
 💬 Programming Languages: 
-Java                     1 hr 42 mins        ████████░░░░░░░░░░░░░░░░░   33.60 % 
-C#                       46 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.39 % 
-Other                    39 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.03 % 
-Bash                     27 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.91 % 
-XML                      24 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.16 % 
+C#                       46 mins             ██████░░░░░░░░░░░░░░░░░░░   24.05 % 
+Other                    39 mins             █████░░░░░░░░░░░░░░░░░░░░   20.36 % 
+Bash                     27 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.93 % 
+TypeScript               16 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.71 % 
+Java                     15 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.82 % 
 
 🐱‍💻 Projects: 
-discordbot.stella        1 hr 8 mins         ██████░░░░░░░░░░░░░░░░░░░   22.41 % 
-baekjun                  58 mins             █████░░░░░░░░░░░░░░░░░░░░   19.23 % 
-Notepad                  39 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.04 % 
-c#                       33 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.90 % 
-shopmall3                29 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.60 % 
+discordbot.stella        1 hr 8 mins         █████████░░░░░░░░░░░░░░░░   35.01 % 
+Notepad                  39 mins             █████░░░░░░░░░░░░░░░░░░░░   20.38 % 
+c#                       33 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.03 % 
+103Team                  16 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.71 % 
+baekjun                  15 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.82 % 
 ```
 
 **I Mostly Code in Java** 
@@ -88,7 +88,7 @@ C#                       1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/kkisim/kkisim/main/assets/bar_graph.png)
 
 
- Last Updated on 07/12/2025 15:12:32 UTC
+ Last Updated on 08/12/2025 15:17:18 UTC
 <!--END_SECTION:waka-->
 
 
