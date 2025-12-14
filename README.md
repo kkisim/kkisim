@@ -49,7 +49,7 @@
 
 ## ⏱ WakaTime Stats
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-301%20hrs%2034%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-304%20hrs%2018%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.6%20million%20lines%20of%20code-blue)
 
@@ -57,28 +57,28 @@
 
 ```text
 💬 Programming Languages: 
-C#                       46 mins             ██████░░░░░░░░░░░░░░░░░░░   24.05 % 
-Other                    39 mins             █████░░░░░░░░░░░░░░░░░░░░   20.36 % 
-Bash                     27 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.93 % 
-TypeScript               16 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.71 % 
-Java                     15 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.82 % 
+XML                      40 mins             ███████████░░░░░░░░░░░░░░   45.50 % 
+Java                     32 mins             █████████░░░░░░░░░░░░░░░░   36.42 % 
+Markdown                 11 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.02 % 
+YAML                     4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.04 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
 
 🐱‍💻 Projects: 
-discordbot.stella        1 hr 8 mins         █████████░░░░░░░░░░░░░░░░   35.01 % 
-Notepad                  39 mins             █████░░░░░░░░░░░░░░░░░░░░   20.38 % 
-c#                       33 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.03 % 
-103Team                  16 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.71 % 
-baekjun                  15 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.82 % 
+shop-master              1 hr 18 mins        ██████████████████████░░░   89.36 % 
+shop-marster             5 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.53 % 
+새 폴더 (2)                 2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.15 % 
+shopmall33               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.96 % 
+c#                       0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 ```
 
 **I Mostly Code in Java** 
 
 ```text
-Java                     7 repos             ████████████░░░░░░░░░░░░░   46.67 % 
-C++                      5 repos             ████████░░░░░░░░░░░░░░░░░   33.33 % 
-JavaScript               1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   06.67 % 
-Python                   1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   06.67 % 
-C#                       1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   06.67 % 
+Java                     8 repos             ████████████░░░░░░░░░░░░░   50.00 % 
+C++                      5 repos             ████████░░░░░░░░░░░░░░░░░   31.25 % 
+JavaScript               1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   06.25 % 
+Python                   1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   06.25 % 
+C#                       1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   06.25 % 
 ```
 
 
@@ -88,7 +88,7 @@ C#                       1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/kkisim/kkisim/main/assets/bar_graph.png)
 
 
- Last Updated on 08/12/2025 15:17:18 UTC
+ Last Updated on 14/12/2025 15:13:27 UTC
 <!--END_SECTION:waka-->
 
 
