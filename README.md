@@ -57,18 +57,17 @@
 
 ```text
 💬 Programming Languages: 
-Java                     1 hr 14 mins        ██████████░░░░░░░░░░░░░░░   40.29 % 
-JavaScript               42 mins             ██████░░░░░░░░░░░░░░░░░░░   23.07 % 
-Python                   40 mins             ██████░░░░░░░░░░░░░░░░░░░   22.20 % 
-TypeScript               14 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.03 % 
-JSON                     8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.50 % 
+JavaScript               56 mins             ████████████░░░░░░░░░░░░░   46.63 % 
+Python                   40 mins             ████████░░░░░░░░░░░░░░░░░   33.44 % 
+Java                     12 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.28 % 
+JSON                     8 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.77 % 
+Bash                     3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.65 % 
 
 🐱‍💻 Projects: 
-shop-master              1 hr 1 min          ████████░░░░░░░░░░░░░░░░░   33.46 % 
-discordbot.minbot        48 mins             ███████░░░░░░░░░░░░░░░░░░   26.19 % 
-01-starting-project      46 mins             ██████░░░░░░░░░░░░░░░░░░░   25.48 % 
-shop-marster             14 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.03 % 
-baekjun                  12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.82 % 
+01-starting-project      1 hr 1 min          █████████████░░░░░░░░░░░░   50.26 % 
+discordbot.minbot        48 mins             ██████████░░░░░░░░░░░░░░░   39.44 % 
+baekjun                  12 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.28 % 
+파이썬으로 디스코드봇 만들기          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
 ```
 
 **I Mostly Code in Java** 
@@ -88,7 +87,7 @@ C#                       1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/kkisim/kkisim/main/assets/bar_graph.png)
 
 
- Last Updated on 20/12/2025 15:13:37 UTC
+ Last Updated on 24/12/2025 15:15:27 UTC
 <!--END_SECTION:waka-->
 
 
