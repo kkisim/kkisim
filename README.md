@@ -57,17 +57,12 @@
 
 ```text
 💬 Programming Languages: 
-JavaScript               56 mins             ████████████░░░░░░░░░░░░░   46.63 % 
-Python                   40 mins             ████████░░░░░░░░░░░░░░░░░   33.44 % 
-Java                     12 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.28 % 
-JSON                     8 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.77 % 
-Bash                     3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.65 % 
+JavaScript               56 mins             ███████████████████████░░   92.78 % 
+JSON                     4 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.92 % 
+CSS                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 % 
 
 🐱‍💻 Projects: 
-01-starting-project      1 hr 1 min          █████████████░░░░░░░░░░░░   50.26 % 
-discordbot.minbot        48 mins             ██████████░░░░░░░░░░░░░░░   39.44 % 
-baekjun                  12 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.28 % 
-파이썬으로 디스코드봇 만들기          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
+01-starting-project      1 hr 1 min          █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Java** 
@@ -87,7 +82,7 @@ C#                       1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/kkisim/kkisim/main/assets/bar_graph.png)
 
 
- Last Updated on 24/12/2025 15:15:27 UTC
+ Last Updated on 26/12/2025 15:15:22 UTC
 <!--END_SECTION:waka-->
 
 
