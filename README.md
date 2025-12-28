@@ -57,10 +57,10 @@
 
 ```text
 💬 Programming Languages: 
-JavaScript               14 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-01-starting-project      14 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Java** 
@@ -80,7 +80,7 @@ C#                       1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/kkisim/kkisim/main/assets/bar_graph.png)
 
 
- Last Updated on 27/12/2025 15:13:36 UTC
+ Last Updated on 28/12/2025 15:13:46 UTC
 <!--END_SECTION:waka-->
 
 
