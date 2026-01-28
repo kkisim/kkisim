@@ -57,13 +57,10 @@
 
 ```text
 💬 Programming Languages: 
-Bash                     14 mins             ███████████████░░░░░░░░░░   58.92 % 
-Python                   10 mins             ██████████░░░░░░░░░░░░░░░   40.71 % 
-JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-discordbot.minbot        25 mins             █████████████████████████   99.63 % 
-01-starting-project      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Java** 
@@ -83,7 +80,7 @@ C#                       1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/kkisim/kkisim/main/assets/bar_graph.png)
 
 
- Last Updated on 27/01/2026 15:25:19 UTC
+ Last Updated on 28/01/2026 15:26:27 UTC
 <!--END_SECTION:waka-->
 
 
