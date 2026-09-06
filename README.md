@@ -74,11 +74,11 @@ No AI Coding Activity Tracked This Week
 **I Mostly Code in Java** 
 
 ```text
-Java                     8 repos             ████████████░░░░░░░░░░░░░   50.00 % 
-C++                      5 repos             ████████░░░░░░░░░░░░░░░░░   31.25 % 
-JavaScript               1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   06.25 % 
-Python                   1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   06.25 % 
-C#                       1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   06.25 % 
+Java                     8 repos             ████████████░░░░░░░░░░░░░   47.06 % 
+C++                      5 repos             ███████░░░░░░░░░░░░░░░░░░   29.41 % 
+Python                   2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.76 % 
+JavaScript               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.88 % 
+C#                       1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.88 % 
 ```
 
 
@@ -88,7 +88,7 @@ C#                       1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/kkisim/kkisim/main/assets/bar_graph.png)
 
 
- Last Updated on 05/09/2026 17:03:19 UTC
+ Last Updated on 06/09/2026 17:27:14 UTC
 <!--END_SECTION:waka-->
 
 
